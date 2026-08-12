@@ -16,7 +16,7 @@ PhD Candidate in Neuroscience (UZH, ETH Zurich, ZNZ, and Life Science Zurich Gra
 * **Agentic AI Systems**: Developing intelligent multi-agent architectures and LLM workflows for automated biomedical intelligence.
 
 ### 💻 Tech Stack & Expertise
-* **Programming & Data**: Python, PyTorch, JavaScript, HTML5, Tailwind CSS, SQL.
+* **Programming & Data**: Python, PyTorch, HTML5, R, Vibe Coding & AI-Agentic Tools.
 * **Methodologies & R&D**: Multi-omics data integration, Electrophysiology (LFP/EEG/ABR), Olink Proteomics, Agile workflows.
 * **Cloud & Enterprise Security**: Hardened CSP, secure frontend development, GitHub Pages / Vercel / Netlify deployment.
 
